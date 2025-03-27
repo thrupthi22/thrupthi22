@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thrupthi22
+- 👋 Hi, I’m @Thrupthi
 - 👀 I’m interested in software development and AI.
 - 🌱 I’m currently learning machine learning and web development.
 - 💞️ I’m looking to collaborate on open-source projects.
