@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 Reach me at thrupthis684@gmail.com.
-- 😄 Pronouns: She/Her
 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/thrupthi-s-390117264)
