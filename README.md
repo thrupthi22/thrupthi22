@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Thrupthi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Software+Developer+In+The+Making;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&width=435&lines=Software+Developer+In+Making;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 - 👀 I’m interested in software development and AI.
